@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/aymerick/douceur/inliner"
-	"github.com/aymerick/douceur/parser"
+	"github.com/tsawler/douceur/inliner"
+	"github.com/tsawler/douceur/parser"
 )
 
 const (
