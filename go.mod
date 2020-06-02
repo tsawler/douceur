@@ -1,4 +1,4 @@
-module github.com/tsawler/doceur
+module github.com/tsawler/douceur
 
 go 1.14
 
